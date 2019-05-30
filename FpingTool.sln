@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FpingTool", "FpingTool\FpingTool.csproj", "{8DA89D20-BAD6-499F-AF70-784661D187DC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA6E7B0F-1063-431F-8C15-794BB13AC553}"
+	ProjectSection(SolutionItems) = preProject
+		FpingTool\Fping.exe = FpingTool\Fping.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

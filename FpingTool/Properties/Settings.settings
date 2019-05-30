@@ -1,7 +1,15 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FpingTool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="华南" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">obs.cn-south-1.myhuaweicloud.com</Value>
+    </Setting>
+    <Setting Name="华东" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">obs.cn-east-2.myhuaweicloud.com</Value>
+    </Setting>
+    <Setting Name="fa62" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">139.9.44.145</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>
